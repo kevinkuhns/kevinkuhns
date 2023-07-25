@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on Memorial's Premier ADF and other projects internal on the Decision Sciences team
 - 🌱 I’m currently learning Microsoft ADF, Github/Git
-- 📫 How to reach me: kuhns.kevin@mhsil.com - mostly remote but office number is 217-588-2464
+- 📫 How to reach me: kuhns.kevin@mhsil.com - mostly remote but office desk number is 217-588-2464
 - 😄 Pronouns: He, Him, His
 <!--
 **kevinkuhns/kevinkuhns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
